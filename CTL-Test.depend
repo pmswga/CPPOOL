@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1549472876 source:c:\users\pmswga\desktop\ctl-test\main.cpp
+	<iostream>
+	"types/base-types/int.h"
+
+1549472910 c:\users\pmswga\desktop\ctl-test\types\base-types\int.h
+	<iostream>
+
+1549471930 source:c:\users\pmswga\desktop\ctl-test\types\base-types\int.cpp
+	"int.h"
+
+1549471930 source:c:\users\pmswga\desktop\ctl\include\types\int.cpp
+	"int.h"
+
+1552751054 c:\users\pmswga\desktop\ctl\include\types\int.h
+	<iostream>
+
+1552751450 source:c:\users\pmswga\desktop\ctl\main.cpp
+	<iostream>
+	"include/types/int.h"
+	"include/types/char.h"
+
+1552751511 c:\users\pmswga\desktop\ctl\include\types\char.h
+	<iostream>
+
